@@ -1,9 +1,9 @@
 ![Chinese Medstudent Application Factory](https://github.com/appbrewery-Mike/Images-and-Gifs-for-readme/blob/master/ByteCoinLogo.png)
 
 
-# H4X0R News ✓
+# ByteCoin ✓
 
-## H4X0R News
+## ByteCoin
 
     This application was created as example for CV. In this application you will be able see BitCoin Price in al lot of currencies
 
